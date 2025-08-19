@@ -9,6 +9,6 @@ permalink: /
 
 - 🔭 Recent: S&P 500 price prediction (baseline ML + interpretation)
 - 🧪 Interests: MLOps, model deployment, and time-series
-- 📫 Contact: your.email@example.com
+- 📫 Contact: mohasanoussy.camara@gmail.com
 
 ➡️ Check out my [Projects](/projects/) and grab my [Resume](/resume/).
