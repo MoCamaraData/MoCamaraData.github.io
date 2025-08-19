@@ -21,5 +21,3 @@ permalink: /projects/
 - **What**: Exploratory data analysis + dashboards
 - **Stack**: Python, pandas, Plotly
 - **Repo**: https://github.com/<you>/market-eda
-
-> Add GIFs/screenshots to each repo’s README and link them here for extra impact.
