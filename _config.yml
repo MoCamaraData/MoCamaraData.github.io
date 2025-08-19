@@ -1,0 +1,32 @@
+# Site basics
+title: "Mohamed Sanoussy Camara"
+description: "Data & AI Portfolio — projects, blog, resume"
+url: "https://MoCamaraData.github.io" 
+
+# Theme & plugins (fully supported by GitHub Pages)
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minima options
+minima:
+  skin: auto
+  social_links:
+    - { platform: github,  user_url: "https://github.com/MoCamaraData" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/mohamed-sanoussy-camara-776895332" }
+
+# Navigation (controls header links)
+header_pages:
+  - projects.md
+  - about.md
+  - resume.md
+
+# Markdown & misc
+markdown: kramdown
+highlighter: rouge
+exclude:
+  - README.md
+  - node_modules
+  - package.json
+  - package-lock.json
